@@ -2,6 +2,7 @@
 This project is a Python-based real-time object detection system that uses the YOLOv8 model to count all detected objects and specifically track the number of people visible through your webcam. It's an efficient and simple application built using OpenCV and Ultralytics YOLOv8
 # Features
 -Real-time object detection via webcam
+
 -Counts total number of detected objects per frame
 -Separately tracks the number of detected persons
 -Displays labeled bounding boxes and live count overlays
